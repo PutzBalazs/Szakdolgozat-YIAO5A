@@ -1,0 +1,751 @@
+[
+    {
+        "tokenA": "ETH",
+        "tokenB": "USDT",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "pool_address": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "DAI",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "pool_address": "0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "USDC",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "pool_address": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "WBTC",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "pool_address": "0xBb2b8038a1640196FbE3e38816F3e67Cba72D940"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "UNI",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "pool_address": "0xd3d2E2692501A5c9Ca623199D38826e513033a17"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "LINK",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "pool_address": "0xa2107FA5B38d9bbd2C461D6EDf11B11A50F6b974"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "MKR",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "pool_address": "0xC2aDdA861F89bBB333c90c492cB837741916A225"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "AAVE",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0xDFC14d2Af169B0D36C4EFF567Ada9b2E0CAE044f"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "YFI",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0x2fDbAdf3C4D5A8666Bc06645B8358ab803996E28"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "COMP",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0xCFfDdeD873554F362Ac02f8Fb1f02E5ada10516f"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "SUSHI",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "pool_address": "0xCE84867c3c02B05dc570d0135103d3fB9CC19433"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "CRV",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "pool_address": "0x3dA1313aE46132A397D90d95B1424A9A7e3e0fCE"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "BAL",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "pool_address": "0xA70d458A4d9Bc0e6571565faee18a48dA5c0D593"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "1INCH",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x26aAd2da94C59524ac0D93F6D6Cbf9071d7086f2"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "ZRX",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "pool_address": "0xc6F348dd3B91a56D117ec0071C1e9b83C0996De4"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "GRT",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0x2e81eC0B8B4022fAC83A21B2F2B4B8f5ED744D70"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "MANA",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0x11b1f53204d03E5529F09EB3091939e4Fd8c9CF3"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "SAND",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+        "pool_address": "0x3dd49f67E9d5Bc4C5E6634b3F70BfD9dc1b6BD74"
+    },
+    {
+        "tokenA": "ETH",
+        "tokenB": "BAT",
+        "tokenA_address": "0xC02aaa39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0xB6909B960DbbE7392D405429eB2b3649752b4838"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "DAI",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "pool_address": "0xB20bd5D04BE54f870D5C0d3cA85d82b34B836405"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "USDC",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "pool_address": "0x3041CbD36888bECc7bbCBc0045E3B1f144466f5f"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "WBTC",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "pool_address": "0x0DE0Fa91b6DbaB8c8503aAA2D1DFa91a192cB149"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "UNI",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "pool_address": "0x5ac13261c181a9c3938BfE1b649E65D10F98566B"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "LINK",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "pool_address": "0x9Db10C305c671153662119D453C4D2c123725566"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "MKR",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "pool_address": "0xa14DFBaa23EE8E8b69878381F8Fd1D0BC502c043"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "AAVE",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0x1f447690A6ddF18400533b705516159E1312f892"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "YFI",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0xAcD2556F64D4BE9Aaa205278895653D3e6d639aE"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "COMP",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0x942Be9e8a12cFAAF997Cd266487Eaf8553B119d2"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "SUSHI",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "pool_address": "0xE3FfaB89E53422f468BE955E7011932EfE80aA26"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "CRV",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "pool_address": "0x3eEd0Af1c5F350C6571525D9E3EEea7d2608af81"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "BAL",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "pool_address": "0x08aa3763A810087fECe6A9769724de8ece26aFE0"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "1INCH",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x0357079bbeCADD7bd4B7a9f418014679Fc4e3926"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "ZRX",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "pool_address": "0x05556053D0966c7701201A2103dcb56CF75BdD92"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "GRT",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0x6476340acAE01ED51AbD8A13e1B335E8351b47Ad"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "MANA",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0xc31508Fa519E5b3f1287759B15EB7150CF76b7Ef"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "SAND",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+        "pool_address": "0xB3037005e4737BCe195A06214e6E91C6D6D3C5EA"
+    },
+    {
+        "tokenA": "USDT",
+        "tokenB": "BAT",
+        "tokenA_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x0c11F54ec778Cdf062Ad0d8464cC7b7C9108c934"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "USDC",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "pool_address": "0xAE461cA67B15dc8dc81CE7615e0320dA1A9aB8D5"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "WBTC",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "pool_address": "0x231B7589426Ffe1b75405526fC32aC09D44364c4"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "UNI",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "pool_address": "0xf00e80f0DE9aEa0B33aA229a4014572777E422EE"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "LINK",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "pool_address": "0x6D4fd456eDecA58Cf53A8b586cd50754547DBDB2"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "MKR",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "pool_address": "0x517F9dD285e75b599234F7221227339478d0FcC8"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "AAVE",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0x38E12fDd8DC51e48830863151e1Afa7799e6fE97"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "YFI",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0x3CD132ac73A4043Bb4f1674369E70BE6f88EdD73"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "COMP",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0xf3194E22d3212A6F930a7C6A88003d43F68befAB"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "CRV",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "pool_address": "0xf00F7A64B170D41789C6f16a7eb680a75A050e6D"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "BAL",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "pool_address": "0x6F4795E8A5669ab8d69f79fb27B46E069f6619AA"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "1INCH",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x1DF4139144595e0245B084E7EA1a75101Fb95548"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "ZRX",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "pool_address": "0x7808e5c594b25Fa35Cf0E5567a76f01483912513"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "GRT",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0x7C62Fe44A893268411e9f0BB1Ed944f7c8598F92"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "MANA",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0x9d090ffD76dDfd94f49040DF91eDD6977e30e6C6"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "SAND",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+        "pool_address": "0x2A96d40539B2c884b0D99fa228f9Cb8849501a02"
+    },
+    {
+        "tokenA": "DAI",
+        "tokenB": "BAT",
+        "tokenA_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x6929abD7931D0243777d3CD147fE863646A752ba"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "WBTC",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "pool_address": "0x004375Dff511095CC5A197A54140a24eFEF3A416"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "UNI",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "pool_address": "0xEBFb684dD2b01E698ca6c14F10e4f289934a54D6"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "LINK",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "pool_address": "0xd8C8a2B125527bf97c8e4845b25dE7e964468F77"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "MKR",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "pool_address": "0x340A5a2F73eBaa181eC2826802Fdf8ED21Fc759a"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "AAVE",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0x674E114dAd81838d151d9BedA2271228eeAe0E8B"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "YFI",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0xdE37cD310c70e7Fa9d7eD3261515B107D5Fe1F2d"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "COMP",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0x6F81d90E771B551451382b4c8B41C86B978d3420"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "SUSHI",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "pool_address": "0x239650663A422273C0b2c7A1f1a8bdAb69E78D1B"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "CRV",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "pool_address": "0x210a97bA874a8e279C95b350aE8bA143A143C159"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "BAL",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "pool_address": "0x26A2db3eA75FCe4CC7864C69ECD3397E864764be"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "1INCH",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x58D1E10796D95F60e27Aa0C6Af98FeE7CDC8e3A6"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "ZRX",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "pool_address": "0x9f65DF828d21C8860ee1499dA6397D50d85E14a0"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "GRT",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0xDfa42Ba0130425b21a1568507B084CC246fb0C8F"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "MANA",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0xFb3Ace45CB56E804B765393aA085486295175649"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "SAND",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+        "pool_address": "0x504aa346A22c8C452357237E4902DCfbf3709C3D"
+    },
+    {
+        "tokenA": "USDC",
+        "tokenB": "BAT",
+        "tokenA_address": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x02DD9Ff64EeC5D866a512EF08463C7c85A14e4Aa"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "UNI",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "pool_address": "0xAA873C9DA6541f13C89416C17271b4c21bf7B2d7"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "LINK",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "pool_address": "0x8a01BA64FBc7B12ee13F817DFa862881feC531b8"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "AAVE",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0x48978eF5BeB2d69e27DeF9C046cEbE18Ab5708Ad"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "YFI",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0xbAe1264CeC9371238da484C42b56B0dC8C31c6B9"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "1INCH",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x3393E9B661E2c54B6c15e35d2774E16dc2887f96"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "GRT",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0x2a075797290E3e9cA5E7946B52BCe4e7E4E91173"
+    },
+    {
+        "tokenA": "WBTC",
+        "tokenB": "BAT",
+        "tokenA_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x65cc29d2E912827e6C1A53A5d18A7c23c9D2920d"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "LINK",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "pool_address": "0x9b2662DC8b80B0fE79310AD316b943CB5Bb15e8b"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "MKR",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "pool_address": "0xB981acFc76ca389CCbB376A921E1C077b1C3c031"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "AAVE",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0xDbb317929A4924e032bc21add1ce8e30A978C257"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "YFI",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0xF80960072b76804d4e0C12bebE784E6Bf95883b9"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "COMP",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0x83C72Bf7c69795B53497dB3d214b4e42362f1b5e"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "SUSHI",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "pool_address": "0x6580E58dEd2b562CF5DFA361956f6854F5Cab507"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "CRV",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "pool_address": "0x71Aa44cbEd2CA17077aeE7C5087e86a53Fc01f6E"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "BAL",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "pool_address": "0x896d652AFEc3f34bCE61d29450d57c68879Efd1c"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "1INCH",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x35189A34C83162D4A41DDA0Bed6c9384A0b44db1"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "MANA",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0x3fB41aEdc135f619B8eA7Ecf7268F26595e29f6D"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "SAND",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+        "pool_address": "0xb88501c392a42855aC99f2F290886DEf26edC5B1"
+    },
+    {
+        "tokenA": "UNI",
+        "tokenB": "BAT",
+        "tokenA_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x2531331F7A2Cd0eBA74a3B23E1b761DfdE21Fc22"
+    },
+    {
+        "tokenA": "LINK",
+        "tokenB": "AAVE",
+        "tokenA_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "tokenB_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "pool_address": "0xE9cc31da55080593369e3Cdf589BD1DE85E0151A"
+    },
+    {
+        "tokenA": "LINK",
+        "tokenB": "YFI",
+        "tokenA_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0xB49Ac553Aeff303B1c73af00A8511Cb1585c1204"
+    },
+    {
+        "tokenA": "LINK",
+        "tokenB": "COMP",
+        "tokenA_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0xcf4A0967C6c0b0fCD416283b8664f735391a36EC"
+    },
+    {
+        "tokenA": "LINK",
+        "tokenB": "MANA",
+        "tokenA_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0xD77ffd33896B7dCE899d53705B90162d1c53694d"
+    },
+    {
+        "tokenA": "LINK",
+        "tokenB": "BAT",
+        "tokenA_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x9773f438F0856099411fBBC0C964873b214B7406"
+    },
+    {
+        "tokenA": "MKR",
+        "tokenB": "COMP",
+        "tokenA_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "tokenB_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "pool_address": "0x72Ef722d2A6c3B72e6113B6f3f1c62c75aA152E5"
+    },
+    {
+        "tokenA": "MKR",
+        "tokenB": "CRV",
+        "tokenA_address": "0x9f8F72aA9304C8B593d555F12ef6589Cc3A579A2",
+        "tokenB_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "pool_address": "0xE669EbF1a0f92e4b405f9D3F17cb807F0aBE2066"
+    },
+    {
+        "tokenA": "AAVE",
+        "tokenB": "YFI",
+        "tokenA_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "tokenB_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "pool_address": "0x49604b4bC98f1196D4B2116f8a1Fac64ab69cef8"
+    },
+    {
+        "tokenA": "AAVE",
+        "tokenB": "1INCH",
+        "tokenA_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DdAe9",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x7c251F4F998425aAcAbe84e716ec7ae73B275926"
+    },
+    {
+        "tokenA": "YFI",
+        "tokenB": "SUSHI",
+        "tokenA_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "tokenB_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "pool_address": "0xdEb9725e10642D1dE906923F5b57851aa92a70AA"
+    },
+    {
+        "tokenA": "YFI",
+        "tokenB": "1INCH",
+        "tokenA_address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x58Ce2c05f73F64b6b23d2fc2A20424D5061F473F"
+    },
+    {
+        "tokenA": "COMP",
+        "tokenB": "SUSHI",
+        "tokenA_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "tokenB_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "pool_address": "0x30526288559f920Ec20d79D9eB147eA330Fe9809"
+    },
+    {
+        "tokenA": "COMP",
+        "tokenB": "BAT",
+        "tokenA_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x112B376914f39afE57C76EF8027363a004Aaed1B"
+    },
+    {
+        "tokenA": "SUSHI",
+        "tokenB": "1INCH",
+        "tokenA_address": "0x6B3595068778DD592e39A122f4f5a5CF09C90fE2",
+        "tokenB_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "pool_address": "0x8eb3051b6bbcc301800c74ef34a7D5b6b23Aa5F2"
+    },
+    {
+        "tokenA": "CRV",
+        "tokenB": "GRT",
+        "tokenA_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0xd5559b9d26637956742De16A4C3E8DD4E175577B"
+    },
+    {
+        "tokenA": "CRV",
+        "tokenB": "BAT",
+        "tokenA_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0xD42730adc5Fce4A71e420A0aD548E27df56080DB"
+    },
+    {
+        "tokenA": "BAL",
+        "tokenB": "MANA",
+        "tokenA_address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "tokenB_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "pool_address": "0xb91ac1d9807368c8BAc2503bB85649502fFA9c38"
+    },
+    {
+        "tokenA": "ZRX",
+        "tokenB": "GRT",
+        "tokenA_address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "tokenB_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "pool_address": "0x53BeCf7DfDBBBCB16319d51dfAD61f0fF4FD4e4d"
+    },
+    {
+        "tokenA": "MANA",
+        "tokenB": "BAT",
+        "tokenA_address": "0x0F5D2fB29fb7d3CFeE444A200298f468908cC942",
+        "tokenB_address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "pool_address": "0x22F0CBB6895c92B6b54C7176E03e5d1d4dF9c6dC"
+    }
+]
